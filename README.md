@@ -1,6 +1,6 @@
 # Morse Code
 
-University Semester 2 Project - Morse Code
+Data Structure Project - Morse Code
 
 ---
 
